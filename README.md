@@ -1,5 +1,7 @@
 # TC39 Module Keys (Stage 1 Proposal)
 
+![Stage 3](https://badges.aleen42.com/src/tc39_4.svg)
+
 Lets project teams trust code they know with more than code they don't.
 
 This proposal adds per-module APIs visible within a *ModuleBody*
